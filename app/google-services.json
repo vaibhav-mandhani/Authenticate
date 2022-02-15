@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "804558399966",
+    "project_id": "authentication-fc895",
+    "storage_bucket": "authentication-fc895.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804558399966:android:24bb0f7721ed210941d54f",
+        "android_client_info": {
+          "package_name": "com.example.authentication_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804558399966-7bbdrbvsgrno4grq2r3b3tbch0g408ij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXCHFUNFGsAD5pEoh0AZjWMdSnWD4dfoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804558399966-7bbdrbvsgrno4grq2r3b3tbch0g408ij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
